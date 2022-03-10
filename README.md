@@ -1,2 +1,2 @@
 # exercicio1
-Tabela de com 3 filmes
+Tabela com 3 filmes
